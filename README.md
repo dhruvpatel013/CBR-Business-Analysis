@@ -1,4 +1,4 @@
-This GitHub repository contains the Business Anlysis project for the Integrated Supply Optimization project. The aim of this project was to enhance the raw material supply management system at CBR (Coffee Bean Roasters) by leveraging various analytical techniques and tools. The following features and analyses were implemented:
+This GitHub repository contains the Business Analysis project for the Integrated Supply Optimization project. The aim of this project was to enhance the raw material supply management system at CBR (Coffee Bean Roasters) by leveraging various analytical techniques and tools. The following features and analyses were implemented:
 
 SWOT Analysis:
 Conducted a comprehensive analysis of the current raw material supply management system at CBR.
